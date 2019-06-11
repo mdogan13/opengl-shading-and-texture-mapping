@@ -1,9 +1,11 @@
 # opengl-shading-and-texture-mapping
 
   A bouncing ball with different shading(gouraud, phong), material(metal, plastic), texture(earth, basketball) and lighting(fixed, moving) options.
+  
+  
+<img src ="https://raw.githubusercontent.com/mdogan13/opengl-shading-and-texture-mapping/master/screenshot1.png" width ="400" height = "400">
 
-![screenshot1.png](https://raw.githubusercontent.com/mdogan13/opengl-shading-and-texture-mapping/master/screenshot1.png)
+<img src ="https://raw.githubusercontent.com/mdogan13/opengl-shading-and-texture-mapping/master/screenshot2.png" width ="400" height = "400">
 
-![screenshot2.png](https://raw.githubusercontent.com/mdogan13/opengl-shading-and-texture-mapping/master/screenshot2.png)
+<img src ="https://raw.githubusercontent.com/mdogan13/opengl-shading-and-texture-mapping/master/screenshot3.png" width ="400" height = "400">
 
-![screenshot3.png](https://raw.githubusercontent.com/mdogan13/opengl-shading-and-texture-mapping/master/screenshot3.png)
